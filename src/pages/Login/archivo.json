@@ -1,0 +1,12 @@
+{
+    "response": {
+        "IDUSUARIO": "73133130",
+        "TOKEN": "22441cba079b833a92811da2f61f0ba44afb1c1a05472b6cb245a04b20b081db219fa20231020212053",
+        "USR_NOMBRES": "Juan Soto"
+    },
+    "credenciales": {
+        "p_usuario": "juanproperu@gmail.com",
+        "p_clave": "12345678"
+    },
+    "rpt": true
+}
